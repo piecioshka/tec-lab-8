@@ -4,7 +4,7 @@
   * plik: SDP2_KKrawczyk.pdf
   * Metody optymalizacji soft-procesorów NIOS - Kamil Krawczyk
 
-Method | Quality
+Method | Speed
 --- | ---
 Nios Software | 0.65
 NIOS Custom instructions | 0.1
