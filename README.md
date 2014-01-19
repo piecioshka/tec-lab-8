@@ -6,6 +6,19 @@
 
 Method | Speed
 --- | ---
-Nios Software | 0.65
+NIOS Software | 0.65
 NIOS Custom instructions | 0.1
 NIOS Custom Componenets | 0.01
+
+Quartus II 
+-> Qsys (SoPC)
+
+Budowa:
+- NIOS II (Procesor)
+- OnChipMemory (Pamięć)
+- JTag UART (Skonfigurować nasz procesor)
+- SDRAM Controller
+
+Łączymy...
+* Procesor - Pamięć
+* System przerwań
